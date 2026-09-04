@@ -1,0 +1,33 @@
+# Pastas geradas pelo build do NetBeans
+/build/
+/dist/
+/nbbuild/
+/nbdist/
+/.nb-gradle/
+
+# Configurações locais/privadas do NetBeans (não devem ser versionadas)
+nbproject/private/
+
+# Se o projeto usa Maven
+/target/
+
+# Se o projeto usa Gradle
+.gradle/
+/build/
+
+# Arquivos compilados
+*.class
+*.jar
+*.war
+
+# Logs
+*.log
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de IDE (caso abra também em outra IDE, tipo IntelliJ ou VSCode)
+.idea/
+*.iml
+.vscode/
