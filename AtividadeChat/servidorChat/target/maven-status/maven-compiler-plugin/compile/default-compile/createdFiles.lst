@@ -1,0 +1,6 @@
+protocolo\TipoMensagem.class
+protocolo\Mensagem.class
+servidor\ClienteHandler.class
+servidor\ClienteHandler$1.class
+servidor\GerenciadorUsuarios.class
+servidor\ServidorChat.class
